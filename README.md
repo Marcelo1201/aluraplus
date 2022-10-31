@@ -1,5 +1,7 @@
 # aluraplus
 # Sobre o projeto
+Link para a demo https://aluraplus-roan.vercel.app/
+
 Uma oferta sobre um produto digital da Alura, desenvolvido juntamente com a plataforma.
 
 ## Layout
